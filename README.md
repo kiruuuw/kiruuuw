@@ -17,7 +17,6 @@
 
 - ⚡ Fun fact **I crashed my teacher's computer with a hidden .bat**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
